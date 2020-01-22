@@ -1,4 +1,4 @@
-# ga-prior-or-nah
+# bnn-blog-experiments
 For testing whether Bayesian NN priors are generalization-agnostic...or nah.
 
 Requires Python 3 & Tensorflow.
